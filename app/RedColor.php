@@ -1,6 +1,6 @@
 <?php
 	
-	namespace app;
+	namespace App;
 	
 	class RedColor extends T_shirtDecorator
 	{

@@ -1,6 +1,6 @@
 <?php
 	
-	namespace app;
+	namespace App;
 	
 	abstract class T_shirtDecorator implements Sellable
 	{

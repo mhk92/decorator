@@ -1,6 +1,6 @@
 <?php
 	
-	namespace app;
+	namespace App;
 	
 	class T_shirt implements Sellable
 	{
