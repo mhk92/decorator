@@ -8,6 +8,6 @@
 		
 		public function getPrice(): int
 		{
-			return $this->sellable->getPrice() * self::EXTRA_PRICE;
+			return $this->sellable->getPrice() + self::EXTRA_PRICE;
 		}
 	}
